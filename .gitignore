@@ -1,0 +1,14 @@
+node_modules/
+.gradle/
+.cxx/
+build/
+app/build/
+**/build/
+**/.cxx/
+.go-cache/
+.go-mod-cache/
+.vscode/
+*.apk
+*.aab
+local.properties
+*.keystore
